@@ -1,0 +1,9 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
